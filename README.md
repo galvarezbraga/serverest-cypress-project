@@ -34,8 +34,8 @@ O ServeRest e uma API REST gratuita que simula um e-commerce, utilizada como amb
 ### 1. Clonar o repositorio
 
 ```bash
-git clone https://github.com/seu-usuario/motusit-serverest-cypress.git
-cd motusit-serverest-cypress
+git clone https://github.com/galvarezbraga/serverest-cypress-project.git
+cd serverest-cypress-project
 ```
 
 ### 2. Instalar dependencias
@@ -87,7 +87,7 @@ npx cypress run --spec "cypress/e2e/api/users.cy.js"
 ## Estrutura do Projeto
 
 ```
-motusit-serverest-cypress/
+serverest-cypress-project/
 ├── cypress/
 │   ├── e2e/
 │   │   ├── api/                        # Testes de API (3 specs, 25 testes)
