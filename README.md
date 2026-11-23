@@ -1,4 +1,4 @@
-# Teste Tecnico QA - MotusIT
+# Projeto Cypress QA - ServeRest
 
 Projeto de automacao de testes para a aplicacao [ServeRest](https://serverest.dev) utilizando **Cypress 16.3.0**, cobrindo testes de API e testes E2E de interface.
 
