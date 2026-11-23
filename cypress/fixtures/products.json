@@ -1,0 +1,14 @@
+{
+  "valid": {
+    "nome": "Produto Teste",
+    "preco": 100,
+    "descricao": "Descrição do produto de teste",
+    "quantidade": 10
+  },
+  "missingFields": {
+    "nome": "",
+    "preco": 0,
+    "descricao": "",
+    "quantidade": 0
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "admin": {
+    "nome": "Admin Teste",
+    "password": "teste123",
+    "administrador": "true"
+  },
+  "regular": {
+    "nome": "Usuario Comum",
+    "password": "teste123",
+    "administrador": "false"
+  },
+  "missingFields": {
+    "nome": "",
+    "email": "",
+    "password": "",
+    "administrador": ""
+  },
+  "invalidEmail": {
+    "nome": "Teste Invalido",
+    "email": "email-invalido",
+    "password": "teste123",
+    "administrador": "true"
+  }
+}
